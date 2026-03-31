@@ -90,7 +90,5 @@ It is designed for **data-driven decision making** and quick business insights.
   <img src="demo-img.jpg" width="800"/>
 </p>
 
-> Replace the image path with your actual screenshot location.
-
 ---
 
