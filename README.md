@@ -78,7 +78,7 @@ It is designed for **data-driven decision making** and quick business insights.
 
 ## 🛠️ Tech Stack
 
-- Data Visualization Tool (Power BI / Tableau / Custom Dashboard)
+- Data Visualization Tool (Power BI)
 - Data Processing (Python / SQL)
 - UI Styling (if web-based: HTML, CSS)
 
@@ -87,7 +87,7 @@ It is designed for **data-driven decision making** and quick business insights.
 ## 📸 Dashboard Preview
 
 <p align="center">
-  <img src="demo-img" width="800"/>
+  <img src="demo-img.jpg" width="800"/>
 </p>
 
 > Replace the image path with your actual screenshot location.
